@@ -59,7 +59,7 @@ body {
 }
 .logo svg {
   background: none;
-  fill: var(--logo);
+  fill: var(--global-2);
   
   width: 100%;
 
